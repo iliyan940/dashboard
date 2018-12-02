@@ -1,0 +1,6 @@
+	body {
+background-color: red;
+}
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";

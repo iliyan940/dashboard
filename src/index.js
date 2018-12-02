@@ -1,1 +1,1 @@
-alert(2);
+import css from './style.css';
